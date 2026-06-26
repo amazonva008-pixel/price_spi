@@ -1,0 +1,54 @@
+{
+    "check_interval": 30,
+    "products": [
+        {
+            "name": "A Light in the Attic",
+            "url": "http://books.toscrape.com",
+            "price_tag": "p",
+            "price_class": "price_color",
+            "target_price": 50.0
+        },
+        {
+            "name": "Mystery Book",
+            "url": "http://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+            "price_tag": "p",
+            "price_class": "price_color",
+            "target_price": 20.0
+        },
+        {
+            "name": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+            "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/59",
+            "price_tag": "h4",
+            "price_class": "price",
+            "target_price": 20.0
+        },
+        {
+            "name": "Hair Clipper Shaver",
+            "url": "https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html",
+            "price_tag": ".pdp-price_size_xl",
+            "price_class": "",
+            "target_price": 0.0
+        },
+        {
+            "name": "Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML",
+            "url": "https://www.daraz.pk/products/150-i933235657-s3989822095.html",
+            "price_tag": ".pdp-price_size_xl",
+            "price_class": "",
+            "target_price": 0.0
+        },
+        {
+            "name": "Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML",
+            "url": "https://www.daraz.pk/products/200-i932726307-s3989239673.html",
+            "price_tag": ".pdp-price_size_xl",
+            "price_class": "",
+            "target_price": 0.0
+        },
+        {
+            "name": "pack of 2 perfumes",
+            "url": "https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html",
+            "price_tag": ".pdp-price_size_xl",
+            "price_class": "",
+            "target_price": 507.20000000000005
+        }
+    ]
+}

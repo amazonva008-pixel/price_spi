@@ -1,0 +1,875 @@
+2026-06-25 00:42:42 | INFO     | Price Spy started! Watching 3 products
+2026-06-25 00:42:42 | INFO     | Checking every 30 seconds
+2026-06-25 00:42:42 | INFO     | ========================================
+2026-06-25 00:42:42 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:42:42 | INFO     | Checking: Mystery Book
+2026-06-25 00:42:42 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:43:43 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:43:43 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:43:43 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:43:43 | INFO     | A Light in the At
+tic - No alert
+2026-06-25 00:43:43 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:43:43 | INFO     | Mystery Book - No alert
+2026-06-25 00:43:43 | INFO     | Next check in 30 seconds...
+2026-06-25 00:13:13 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:13:13 | INFO     | Checking: Mystery Book
+2026-06-25 00:13:13 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:15:15 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:15:15 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:15:15 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:15:15 | INFO     | Mystery Book - No alert
+2026-06-25 00:15:15 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:15:15 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:15:15 | INFO     | Next check in 30 seconds...
+2026-06-25 00:45:45 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:45:45 | INFO     | Checking: Mystery Book
+2026-06-25 00:45:45 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:46:46 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:46:46 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:46:46 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:46:46 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:46:46 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:46:46 | INFO     | Mystery Book - No alert
+2026-06-25 00:46:46 | INFO     | Next check in 30 seconds...
+2026-06-25 00:16:16 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:16:16 | INFO     | Checking: Mystery Book
+2026-06-25 00:16:16 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:17:17 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:17:17 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:17:17 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:17:17 | INFO     | Mystery Book - No alert
+2026-06-25 00:17:17 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:17:17 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:17:17 | INFO     | Next check in 30 seconds...
+2026-06-25 00:47:47 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:47:47 | INFO     | Checking: Mystery Book
+2026-06-25 00:47:47 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:48:48 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:48:48 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:48:48 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:48:48 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:48:48 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:48:48 | INFO     | Mystery Book - No alert
+2026-06-25 00:48:48 | INFO     | Next check in 30 seconds...
+2026-06-25 00:18:18 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:18:18 | INFO     | Checking: Mystery Book
+2026-06-25 00:18:18 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:19:19 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:19:19 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:20:20 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:20:20 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:20:20 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:20:20 | INFO     | Mystery Book - No alert
+2026-06-25 00:20:20 | INFO     | Next check in 30 seconds...
+2026-06-25 00:50:50 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:50:50 | INFO     | Checking: Mystery Book
+2026-06-25 00:50:50 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:50:50 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:50:50 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:51:51 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:51:51 | INFO     | Mystery Book - No alert
+2026-06-25 00:51:51 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:51:51 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:51:51 | INFO     | Next check in 30 seconds...
+2026-06-25 00:21:21 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:21:21 | INFO     | Checking: Mystery Book
+2026-06-25 00:21:21 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:22:22 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:22:22 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:22:22 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:22:22 | INFO     | Mystery Book - No alert
+2026-06-25 00:22:22 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:22:22 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:22:22 | INFO     | Next check in 30 seconds...
+2026-06-25 00:52:52 | INFO     | Checking: A Light in the Attic
+2026-06-25 00:52:52 | INFO     | Checking: Mystery Book
+2026-06-25 00:52:52 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 00:53:53 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 00:53:53 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 00:53:53 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 00:53:53 | INFO     | Mystery Book - No alert
+2026-06-25 00:53:53 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 00:53:53 | INFO     | A Light in the Attic - No alert
+2026-06-25 00:53:53 | INFO     | Next check in 30 seconds...
+2026-06-25 01:42:42 | INFO     | Checking: A Light in the Attic
+2026-06-25 01:42:42 | INFO     | Checking: Mystery Book
+2026-06-25 01:42:42 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 01:42:42 | ERROR    | Cannot connect to http://books.toscrape.com/catalogue/category/books/mystery_3/index.html - check your internet
+2026-06-25 01:42:42 | WARNING  | Skipping Mystery Book - could not fetch page
+2026-06-25 01:42:42 | ERROR    | Cannot connect to http://books.toscrape.com - check your internet
+2026-06-25 01:42:42 | WARNING  | Skipping A Light in the Attic - could not fetch page
+2026-06-25 01:42:42 | ERROR    | Cannot connect to https://webscraper.io/test-sites/e-commerce/allinone/product/59 - check your internet
+2026-06-25 01:42:42 | WARNING  | Skipping Asus ROG Strix SCAR Edition GL503VM-ED115T - could not fetch page
+2026-06-25 01:42:42 | INFO     | Next check in 30 seconds...
+2026-06-25 08:43:43 | INFO     | Checking: A Light in the Attic
+2026-06-25 08:43:43 | INFO     | Checking: Mystery Book
+2026-06-25 08:43:43 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 08:43:43 | ERROR    | Cannot connect to http://books.toscrape.com/catalogue/category/books/mystery_3/index.html - check your internet
+2026-06-25 08:43:43 | WARNING  | Skipping Mystery Book - could not fetch page
+2026-06-25 08:43:43 | ERROR    | Cannot connect to http://books.toscrape.com - check your internet
+2026-06-25 08:43:43 | WARNING  | Skipping A Light in the Attic - could not fetch page
+2026-06-25 08:43:43 | ERROR    | Cannot connect to https://webscraper.io/test-sites/e-commerce/allinone/product/59 - check your internet
+2026-06-25 08:43:43 | WARNING  | Skipping Asus ROG Strix SCAR Edition GL503VM-ED115T - could not fetch page
+2026-06-25 08:43:43 | INFO     | Next check in 30 seconds...
+2026-06-25 11:24:24 | INFO     | Checking: A Light in the Attic
+2026-06-25 11:24:24 | INFO     | Checking: Mystery Book
+2026-06-25 11:24:24 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 11:29:29 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 11:29:29 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 11:29:29 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 11:29:29 | INFO     | Mystery Book - No alert
+2026-06-25 11:29:29 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 11:29:29 | INFO     | A Light in the Attic - No alert
+2026-06-25 11:29:29 | INFO     | Next check in 30 seconds...
+2026-06-25 11:59:59 | INFO     | Checking: A Light in the Attic
+2026-06-25 11:59:59 | INFO     | Checking: Mystery Book
+2026-06-25 11:59:59 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 11:00:00 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 11:00:00 | INFO     | Mystery Book - No alert
+2026-06-25 11:01:01 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 11:01:01 | INFO     | A Light in the Attic - No alert
+2026-06-25 11:01:01 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 11:01:01 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 11:01:01 | INFO     | Next check in 30 seconds...
+2026-06-25 11:31:31 | INFO     | Checking: A Light in the Attic
+2026-06-25 11:31:31 | INFO     | Checking: Mystery Book
+2026-06-25 11:31:31 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 11:32:32 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 11:32:32 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 11:32:32 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 11:32:32 | INFO     | Mystery Book - No alert
+2026-06-25 11:32:32 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 11:32:32 | INFO     | A Light in the Attic - No alert
+2026-06-25 11:32:32 | INFO     | Next check in 30 seconds...
+2026-06-25 11:02:02 | INFO     | Checking: A Light in the Attic
+2026-06-25 11:02:02 | INFO     | Checking: Mystery Book
+2026-06-25 11:02:02 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 11:03:03 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 11:03:03 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 11:03:03 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 11:03:03 | INFO     | A Light in the Attic - No alert
+2026-06-25 11:03:03 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 11:03:03 | INFO     | Mystery Book - No alert
+2026-06-25 11:03:03 | INFO     | Next check in 30 seconds...
+2026-06-25 11:33:33 | INFO     | Checking: A Light in the Attic
+2026-06-25 11:33:33 | INFO     | Checking: Mystery Book
+2026-06-25 11:33:33 | INFO     | Checking: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2026-06-25 11:34:34 | DEBUG    | Product: Asus ROG Strix SCAR Edition GL503VM-ED115T | Current: �1799.0 | Target: �20.0 | Last: �1799.0
+2026-06-25 11:34:34 | INFO     | Asus ROG Strix SCAR Edition GL503VM-ED115T - No alert
+2026-06-25 11:35:35 | DEBUG    | Product: Mystery Book | Current: �47.82 | Target: �20.0 | Last: �47.82
+2026-06-25 11:35:35 | INFO     | Mystery Book - No alert
+2026-06-25 11:35:35 | DEBUG    | Product: A Light in the Attic | Current: �51.77 | Target: �50.0 | Last: �51.77
+2026-06-25 11:35:35 | INFO     | A Light in the Attic - No alert
+2026-06-25 11:35:35 | INFO     | Next check in 30 seconds...
+2026-06-25 20:57:57 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:18:18 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.None
+2026-06-25 20:18:18 | INFO     | First check for Tecno Spark GO 3 - price saved: Rs.29999.0
+2026-06-25 20:30:30 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:49:49 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.None
+2026-06-25 20:49:49 | INFO     | First check for Tecno Spark GO 3 - price saved: Rs.29999.0
+2026-06-25 20:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:43:43 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.None
+2026-06-25 20:43:43 | INFO     | First check for Tecno Spark GO 3 - price saved: Rs.29999.0
+2026-06-25 20:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:42:42 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.35000.0
+2026-06-25 20:42:42 | WARNING  | Price DROPPED! Tecno Spark GO 3 | Rs.35000.0 -> Rs. 29999.0 | Saved: Rs.5001.0
+2026-06-25 20:23:23 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:27:27 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.35000.0
+2026-06-25 20:27:27 | WARNING  | Price DROPPED! Tecno Spark GO 3 | Rs.35000.0 -> Rs. 29999.0 | Saved: Rs.5001.0
+2026-06-25 20:42:42 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:01:01 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.35000.0
+2026-06-25 20:01:01 | WARNING  | Price DROPPED! Tecno Spark GO 3 | Rs.35000.0 -> Rs. 29999.0 | Saved: Rs.5001.0
+2026-06-25 20:33:33 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:16:16 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.35000.0
+2026-06-25 20:16:16 | WARNING  | Price DROPPED! Tecno Spark GO 3 | Rs.35000.0 -> Rs. 29999.0 | Saved: Rs.5001.0
+2026-06-25 20:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:20:20 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.None
+2026-06-25 20:20:20 | INFO     | First check for Tecno Spark GO 3 - price saved: Rs.29999.0
+2026-06-25 20:19:19 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:03:03 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.None
+2026-06-25 20:03:03 | INFO     | First check for Tecno Spark GO 3 - price saved: Rs.29999.0
+2026-06-25 20:24:24 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:08:08 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.28999
+2026-06-25 20:08:08 | WARNING  | Price Increased! Tecno Spark GO 3 | Rs.28999 -> Rs. 29999.0 | Increased by: Rs.1000.0
+2026-06-25 20:14:14 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 20:29:29 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.29999.0
+2026-06-25 20:29:29 | INFO     | No change for Tecno Spark GO 3 - RS. 29999.0
+2026-06-25 21:08:08 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 21:25:25 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.29999.0
+2026-06-25 21:25:25 | INFO     | No change for Tecno Spark GO 3 - RS. 29999.0
+2026-06-25 21:30:30 | INFO     | Opening chrome for: https://www.daraz.pk/products/tecno-spark-go-3-464-i1948224278-s14011801477.html
+2026-06-25 21:52:52 | DEBUG    | Product: Tecno Spark GO 3 | Current: Rs.29999.0 | Last: Rs.29999.0
+2026-06-25 21:52:52 | INFO     | No change for Tecno Spark GO 3 - RS. 29999.0
+2026-06-25 21:32:32 | INFO     | Price Spy Engine Started...
+2026-06-25 21:32:32 | INFO     | Checking: Hair Clipper Shaver
+2026-06-25 21:34:34 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-25 21:13:13 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1919.0 | Last: Rs.None
+2026-06-25 21:13:13 | INFO     | First check for Hair Clipper Shaver - price saved: Rs.1919.0
+2026-06-25 21:13:13 | INFO     | Sleeping for 180 seconds...
+2026-06-25 21:13:13 | INFO     | Checking: Hair Clipper Shaver
+2026-06-25 21:15:15 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-25 21:02:02 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1919.0 | Last: Rs.3000.0
+2026-06-25 21:02:02 | WARNING  | Price DROPPED! Hair Clipper Shaver | Rs.3000.0 -> Rs. 1919.0 | Saved: Rs.1081.0
+2026-06-25 21:03:03 | INFO     | Sleeping for 180 seconds...
+2026-06-25 22:29:29 | INFO     | Checking: Hair Clipper Shaver
+2026-06-25 22:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-25 22:37:37 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1919.0 | Last: Rs.1919.0
+2026-06-25 22:37:37 | INFO     | No change for Hair Clipper Shaver - RS. 1919.0
+2026-06-25 22:37:37 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-25 22:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-25 22:36:36 | WARNING  | SkippingAlfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-06-25 22:36:36 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-25 22:37:37 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-25 22:43:43 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-25 22:43:43 | INFO     | Sleeping for 180 seconds...
+2026-06-25 22:43:43 | INFO     | Checking: Hair Clipper Shaver
+2026-06-25 22:45:45 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-25 22:26:26 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1919.0 | Last: Rs.1919.0
+2026-06-25 22:26:26 | INFO     | No change for Hair Clipper Shaver - RS. 1919.0
+2026-06-25 22:26:26 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-25 22:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 00:11:11 | WARNING  | SkippingAlfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-06-26 00:11:11 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 00:19:19 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 00:35:35 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.None
+2026-06-26 00:35:35 | INFO     | First check for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - price saved: Rs.8725.0
+2026-06-26 00:35:35 | INFO     | Sleeping for 180 seconds...
+2026-06-26 00:35:35 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 00:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 00:53:53 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1919.0
+2026-06-26 00:53:53 | WARNING  | Price Increased! Hair Clipper Shaver | Rs.1919.0 -> Rs. 1999.0 | Increased by: Rs.80.0
+2026-06-26 00:54:54 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 00:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 00:12:12 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.None
+2026-06-26 00:12:12 | INFO     | First check for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - price saved: Rs.2505.0
+2026-06-26 00:12:12 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 00:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 00:25:25 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 00:25:25 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 00:25:25 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:25:25 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:28:28 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:11:11 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:11:11 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:11:11 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:21:21 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:21:21 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:21:21 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:23:23 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:31:31 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:31:31 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:31:31 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:31:31 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:33:33 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:53:53 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:53:53 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:53:53 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:54:54 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:13:13 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:13:13 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:13:13 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:16:16 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:43:43 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:43:43 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:43:43 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:43:43 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:45:45 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:28:28 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:28:28 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:28:28 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:15:15 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:15:15 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:15:15 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:16:16 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:42:42 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:42:42 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:42:42 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:42:42 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:44:44 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:57:57 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:57:57 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:57:57 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:58:58 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:12:12 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:12:12 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:12:12 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:26:26 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:26:26 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:26:26 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:26:26 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:28:28 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:16:16 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:16:16 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:16:16 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:18:18 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:35:35 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:35:35 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:35:35 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:36:36 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:56:56 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:56:56 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:56:56 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:56:56 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:17:17 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:17:17 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:17:17 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:18:18 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:29:29 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:29:29 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:29:29 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:30:30 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:10:10 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:10:10 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:10:10 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:11:11 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:36:36 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:36:36 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:36:36 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:37:37 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:53:53 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:53:53 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:53:53 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:09:09 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:09:09 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:09:09 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:52:52 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:09:09 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:25:25 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:25:25 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:25:25 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:45:45 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:45:45 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:45:45 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:47:47 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:22:22 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:22:22 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:22:22 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:24:24 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:39:39 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.None
+2026-06-26 01:39:39 | INFO     | First check for pack of 2 perfumes - price saved: Rs.634.0
+2026-06-26 01:39:39 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:41:41 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:44:44 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:30:30 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:30:30 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:30:30 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:31:31 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:10:10 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:10:10 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:10:10 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:11:11 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:28:28 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:28:28 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:28:28 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:14:14 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 01:14:14 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 01:14:14 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:14:14 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:16:16 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:59:59 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:59:59 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:59:59 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:56:56 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:56:56 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:56:56 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:58:58 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:16:16 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:16:16 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:16:16 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:18:18 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:36:36 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 01:36:36 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 01:36:36 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:36:36 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:39:39 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:00:00 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:00:00 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:00:00 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:02:02 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:20:20 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:20:20 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:20:20 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:21:21 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:35:35 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:35:35 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:35:35 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:27:27 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 01:27:27 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 01:27:27 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:27:27 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:45:45 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:45:45 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:45:45 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:46:46 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:29:29 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:29:29 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:29:29 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:33:33 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:42:42 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:42:42 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:42:42 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:44:44 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:53:53 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 01:53:53 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 01:53:53 | INFO     | Sleeping for 180 seconds...
+2026-06-26 01:53:53 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 01:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 01:38:38 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 01:38:38 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 01:38:38 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 01:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 01:53:53 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 01:53:53 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 01:53:53 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 01:54:54 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 01:03:03 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 01:03:03 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 01:03:03 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 01:04:04 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 01:45:45 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 01:45:45 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 01:45:45 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:57:57 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:19:19 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:19:19 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:19:19 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:21:21 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:36:36 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:36:36 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:36:36 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:37:37 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:51:51 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:51:51 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:51:51 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:52:52 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:07:07 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 02:07:07 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 02:07:07 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:08:08 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:11:11 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:26:26 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:26:26 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:26:26 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:48:48 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:48:48 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:48:48 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:50:50 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:33:33 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:33:33 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:33:33 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:34:34 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:49:49 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 02:49:49 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 02:49:49 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:49:49 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:51:51 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:06:06 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:06:06 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:06:06 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:07:07 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:25:25 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:25:25 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:25:25 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:26:26 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:40:40 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:40:40 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:40:40 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:42:42 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:25:25 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.699.0 | Last: Rs.634.0
+2026-06-26 02:25:25 | WARNING  | Price Increased! pack of 2 perfumes | Rs.634.0 -> Rs. 699.0 | Increased by: Rs.65.0
+2026-06-26 02:26:26 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:26:26 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:10:10 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:10:10 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:10:10 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:26:26 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:26:26 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:26:26 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:10:10 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:10:10 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:10:10 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:55:55 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.699.0 | Last: Rs.699.0
+2026-06-26 02:55:55 | INFO     | No change for pack of 2 perfumes - RS. 699.0
+2026-06-26 02:55:55 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:55:55 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:57:57 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:15:15 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:15:15 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:15:15 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:16:16 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:36:36 | WARNING  | SkippingAlfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-06-26 02:36:36 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:59:59 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:59:59 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:59:59 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:14:14 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.699.0 | Last: Rs.699.0
+2026-06-26 02:14:14 | INFO     | No change for pack of 2 perfumes - RS. 699.0
+2026-06-26 02:14:14 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:14:14 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:17:17 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:41:41 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:41:41 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:41:41 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:43:43 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:00:00 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:00:00 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:00:00 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:02:02 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:20:20 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:20:20 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:20:20 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:38:38 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.699.0 | Last: Rs.699.0
+2026-06-26 02:38:38 | INFO     | No change for pack of 2 perfumes - RS. 699.0
+2026-06-26 02:38:38 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:38:38 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:41:41 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:59:59 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:59:59 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:59:59 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:16:16 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:16:16 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:16:16 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:20:20 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:36:36 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:36:36 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:36:36 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:04:04 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.699.0
+2026-06-26 02:04:04 | WARNING  | Price DROPPED! pack of 2 perfumes | Rs.699.0 -> Rs. 634.0 | Saved: Rs.65.0
+2026-06-26 02:05:05 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:06:06 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:09:09 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:28:28 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:28:28 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:28:28 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:41:41 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:41:41 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:41:41 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:43:43 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:08:08 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:08:08 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:08:08 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:10:10 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:27:27 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 02:27:27 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 02:27:27 | INFO     | Sleeping for 180 seconds...
+2026-06-26 02:27:27 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 02:41:41 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 02:29:29 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 02:29:29 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 02:29:29 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 02:30:30 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 02:23:23 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 02:23:23 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 02:23:23 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 02:24:24 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 02:39:39 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 02:39:39 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 02:39:39 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 02:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 02:53:53 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 02:53:53 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 02:53:53 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:53:53 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:57:57 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:12:12 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:12:12 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:12:12 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:14:14 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:38:38 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:38:38 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:38:38 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:39:39 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:50:50 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:50:50 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:50:50 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:51:51 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:03:03 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:03:03 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:03:03 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:03:03 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:06:06 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:28:28 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:28:28 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:28:28 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:30:30 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:49:49 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:49:49 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:49:49 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:50:50 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:05:05 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:05:05 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:05:05 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:06:06 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:19:19 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:19:19 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:19:19 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:27:27 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:31:31 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:46:46 | WARNING  | SkippingHair Clipper Shaver - could not scrape price
+2026-06-26 03:46:46 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:06:06 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:38:38 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:38:38 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:38:38 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:10:10 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:10:10 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:10:10 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:28:28 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:28:28 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:28:28 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:28:28 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:31:31 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:14:14 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:14:14 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:14:14 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:15:15 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:02:02 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:02:02 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:02:02 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:04:04 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:22:22 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:22:22 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:22:22 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:23:23 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:39:39 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:39:39 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:39:39 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:39:39 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:41:41 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:58:58 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:58:58 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:58:58 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:20:20 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:20:20 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:20:20 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:34:34 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:34:34 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:34:34 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:35:35 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:47:47 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:47:47 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:47:47 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:47:47 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:49:49 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:08:08 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:08:08 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:08:08 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:09:09 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:22:22 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:22:22 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:22:22 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:23:23 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:37:37 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:37:37 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:37:37 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:51:51 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:51:51 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:51:51 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:51:51 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:52:52 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:04:04 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 03:04:04 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 03:04:04 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:05:05 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 03:47:47 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 03:47:47 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 03:47:47 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 03:48:48 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 03:31:31 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 03:31:31 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 03:31:31 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 03:32:32 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 03:44:44 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 03:44:44 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 03:44:44 | INFO     | Sleeping for 180 seconds...
+2026-06-26 03:44:44 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 03:46:46 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 03:55:55 | WARNING  | SkippingHair Clipper Shaver - could not scrape price
+2026-06-26 03:55:55 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 03:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 09:32:32 | WARNING  | SkippingAlfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-06-26 09:32:32 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 09:46:46 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 09:56:56 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 09:56:56 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 09:56:56 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 09:57:57 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 09:14:14 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 09:14:14 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 09:14:14 | INFO     | Sleeping for 180 seconds...
+2026-06-26 12:57:57 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 12:07:07 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 12:19:19 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 12:19:19 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 12:19:19 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 12:21:21 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 12:42:42 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 12:42:42 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 12:42:42 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 12:43:43 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 12:02:02 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 12:02:02 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 12:02:02 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 12:04:04 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 12:43:43 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 12:43:43 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 12:43:43 | INFO     | Sleeping for 180 seconds...
+2026-06-26 12:43:43 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 12:45:45 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 12:58:58 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 12:58:58 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 12:58:58 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 12:58:58 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 12:15:15 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 12:15:15 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 12:15:15 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 12:16:16 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 13:27:27 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-26 13:27:27 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 13:57:57 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 13:50:50 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 13:50:50 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 13:50:50 | INFO     | Sleeping for 180 seconds...
+2026-06-26 13:50:50 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 13:53:53 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 13:10:10 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 13:10:10 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 13:10:10 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 13:10:10 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 13:32:32 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 13:32:32 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 13:32:32 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 13:33:33 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 13:44:44 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-26 13:44:44 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 13:45:45 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 13:28:28 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 13:28:28 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 13:28:28 | INFO     | Sleeping for 180 seconds...
+2026-06-26 13:28:28 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 13:29:29 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 13:50:50 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 13:50:50 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 13:50:50 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 13:51:51 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 13:25:25 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 13:25:25 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 13:25:25 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 13:25:25 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 13:22:22 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 13:22:22 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 13:22:22 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 13:01:01 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 13:58:58 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 13:58:58 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 13:58:58 | INFO     | Sleeping for 180 seconds...
+2026-06-26 13:58:58 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 13:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 13:50:50 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 13:50:50 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 13:50:50 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 13:51:51 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 13:35:35 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 13:35:35 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 13:35:35 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 13:36:36 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 14:38:38 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-26 14:38:38 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 14:39:39 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 14:24:24 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 14:24:24 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 14:24:24 | INFO     | Sleeping for 180 seconds...
+2026-06-26 14:24:24 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 14:24:24 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 14:52:52 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 14:52:52 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 14:52:52 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 14:53:53 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 14:38:38 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 14:38:38 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 14:38:38 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 14:39:39 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 14:59:59 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-26 14:59:59 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 14:00:00 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 14:58:58 | WARNING  | Skippingpack of 2 perfumes - could not scrape price
+2026-06-26 14:58:58 | INFO     | Sleeping for 180 seconds...
+2026-06-26 14:58:58 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 14:06:06 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 14:06:06 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 14:06:06 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 14:06:06 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 14:07:07 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 14:51:51 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 14:51:51 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 14:51:51 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 14:51:51 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 14:38:38 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 14:38:38 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 14:38:38 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 14:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 14:07:07 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 14:07:07 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 14:07:07 | INFO     | Sleeping for 180 seconds...
+2026-06-26 14:07:07 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 14:09:09 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 14:21:21 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 14:21:21 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 14:21:21 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 14:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 14:25:25 | WARNING  | SkippingAlfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-06-26 14:25:25 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 14:26:26 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 14:14:14 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.8725.0
+2026-06-26 14:14:14 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 8725.0
+2026-06-26 14:14:14 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 14:15:15 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 14:07:07 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 14:07:07 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 14:07:07 | INFO     | Sleeping for 180 seconds...
+2026-06-26 14:07:07 | INFO     | Checking: Hair Clipper Shaver
+2026-06-26 14:09:09 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-06-26 14:14:14 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-06-26 14:14:14 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-06-26 14:14:14 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-06-26 14:15:15 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-06-26 14:15:15 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2505.0
+2026-06-26 14:15:15 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2505.0
+2026-06-26 14:15:15 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-06-26 14:15:15 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-06-26 14:18:18 | WARNING  | SkippingAlfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-06-26 14:18:18 | INFO     | Checking: pack of 2 perfumes
+2026-06-26 14:54:54 | INFO     | Opening chrome for: https://www.daraz.pk/products/2-100-2-i794774183-s3659152925.html
+2026-06-26 14:33:33 | DEBUG    | Product: pack of 2 perfumes | Current: Rs.634.0 | Last: Rs.634.0
+2026-06-26 14:33:33 | INFO     | No change for pack of 2 perfumes - RS. 634.0
+2026-06-26 14:33:33 | INFO     | Sleeping for 180 seconds...

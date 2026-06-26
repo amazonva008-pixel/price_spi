@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daraz Price Tracker UI</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 { color: #f57224; margin-top: 0; } /* Daraz Orange */
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #f57224;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        button:hover { background-color: #d65a1b; }
+        hr { border: 0; height: 1px; background: #eee; margin: 30px 0; }
+        .product-list { list-style: none; padding: 0; }
+        .product-item {
+            background: #fafafa;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-left: 4px solid #f57224;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .product-details a {
+            color: #0076a3;
+            text-decoration: none;
+            font-size: 14px;
+            word-break: break-all;
+        }
+        .delete-btn {
+            background-color: #dc3545;
+            color: white;
+            padding: 6px 12px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .delete-btn:hover { background-color: #bd2130; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🕷️ Price Spy Tracker</h1>
+    <p>Add new items to your monitoring list below.</p>
+
+    <form action="/add" method="POST">
+        <div class="form-group">
+            <label for="name">Product Name:</label>
+            <input type="text" id="name" name="name" placeholder="e.g., Tecno Spark GO 3" required>
+        </div>
+        <div class="form-group">
+            <label for="url">Daraz Product URL:</label>
+            <input type="text" id="url" name="url" placeholder="https://www.daraz.pk/products/..." required>
+        </div>
+        <button type="submit">Add Product to Watchlist</button>
+    </form>
+
+    <hr>
+
+    <h2>Currently Monitoring</h2>
+    {% if products %}
+        <ul class="product-list">
+        {% for product in products %}
+            <li class="product-item">
+                <div class="product-details">
+                    <strong>{{ product.name }}</strong><br>
+                    <a href="{{ product.url }}" target="_blank">{{ product.url }}</a>
+                </div>
+                <a href="/got te/{{ loop.index0 }}" class="delete-btn" onclick="return confirm('Stop monitoring this item?')">Remove</a>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p style="color: #666;">No products are being tracked right now.</p>
+    {% endif %}
+</div>
+
+</body>
+</html>
