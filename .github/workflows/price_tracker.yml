@@ -1,13 +1,9 @@
 name: Run Daraz Price Spy
-- name: Install Requirements
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+
 on:
   schedule:
-    # This runs the script every 30 minutes automatically!
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows you to also run it manually with a button click
+  workflow_dispatch:
 
 jobs:
   run-tracker:
@@ -25,7 +21,7 @@ jobs:
     - name: Install Requirements
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+        pip install -r requirements.txt
 
     - name: Execute Scraper Script
       run: |
