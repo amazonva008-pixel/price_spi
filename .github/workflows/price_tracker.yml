@@ -5,6 +5,10 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+# CRITICAL: This gives GitHub permission to save files back to your repository
+permissions:
+  contents: write
+
 jobs:
   run-tracker:
     runs-on: ubuntu-latest
@@ -24,12 +28,16 @@ jobs:
         pip install -r requirements.txt
 
     - name: Execute Scraper Script
-      run: |
-        python daraz_scraper.py
-
-
-    - name: Execute Scraper Script
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       run: |
         python daraz_scraper.py
+
+    # NEW STEP: Automatically commit and push the updated price file
+    - name: Commit and Push Price Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git commit -m "Automated price update [skip ci]" || echo "No price changes to save"
+        git push
