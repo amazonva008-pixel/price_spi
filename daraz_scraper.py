@@ -116,24 +116,20 @@ def check_and_notify(product_name, url):
 
 
 if __name__ == "__main__":
-    CHECK_INTERVAL = 180  # 3 minutes
-    logger.info("Price Spy Engine Started...")
+    logger.info("Price Spy Engine Triggered by Automation...")
 
-    while True:
-        # 1. Reload the config file on every loop turn to get newly added products
-        config = load_config()
-        products = config.get("products", [])
+    # 1. Load the config file once
+    config = load_config()
+    products = config.get("products", [])
 
-        # 2. Loop through all products instead of just hardcoding one
-        for product in products:
-            if "daraz.pk" in product["url"]:
-                logger.info(f"Checking: {product['name']}")
-                check_and_notify(product["name"], product["url"])
+    # 2. Loop through all products once
+    for product in products:
+        if "daraz.pk" in product["url"]:
+            logger.info(f"Checking: {product['name']}")
+            check_and_notify(product["name"], product["url"])
 
-        # 3. Wait 3 minutes before starting over
-        logger.info(f"Sleeping for {CHECK_INTERVAL} seconds...")
-        time.sleep(CHECK_INTERVAL)
-
+    # 3. No loop, no sleep. Just finish and exit!
+    logger.info("All checks completed. Worker shutting down.")
 
 
 
