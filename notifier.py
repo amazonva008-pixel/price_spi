@@ -1,68 +1,53 @@
 import os
 import requests
+import json
 from dotenv import load_dotenv
+from logger import setup_logger
 
+logger = setup_logger()
 
-
+# Load local .env if it exists, otherwise do nothing
 load_dotenv()
 
-webhook_url = os.getenv("DISCORD_WEBHOOK")
+def send_discord_alert(product_name, old_price, new_price, status):
+    webhook_url = os.getenv("DISCORD_WEBHOOK")
+    
+    if not webhook_url:
+        logger.error("CRITICAL: DISCORD_WEBHOOK is missing! Cannot send alert.")
+        return
 
-def send_discord_alert(product_name, last_price, current_price, direction):
-    if direction == "dropped":
-        diff =last_price - current_price
-        emoji = "🟢"
-        title = "PRICE DROPPED!"
-        color = 3066993
-        description = (
-            f"**{product_name}**\n\n"
-            f"~~Rs. {last_price:,.0f}~~ → **Rs. {current_price:,.0f}**\n"
-            f"You save: **Rs. {diff:,.0f}**"
-        )
+    # Create the message payload
+    if status == "dropped":
+        color = 65280 # Green
+        title = "📉 PRICE DROP ALERT!"
     else:
-        diff = current_price - last_price
-        emoji = "🔴"
-        title = "PRICE INCREASED!"
-        color = 15158332
-        description = (
-            f"**{product_name}**\n\n"
-            f"Rs. {last_price:,.0f} → **Rs. {current_price:,.0f}**\n"
-            f"Increased by: **Rs. {diff:,.0f}**"
-        )
+        color = 16711680 # Red
+        title = "📈 Price Increased Alert"
 
-    payload = {
-    "embeds": [
-        {
-            "title": f"{emoji}  {title}",
-            "description": description,
+    data = {
+        "embeds": [{
+            "title": title,
+            "description": f"**{product_name}**",
             "color": color,
-            "footer": {
-                "text": "Price Spy 🕷️ | Daraz.pk"
-            }
-        }
-    ]
+            "fields": [
+                {"name": "Old Price", "value": f"Rs. {old_price}", "inline": True},
+                {"name": "New Price", "value": f"Rs. {new_price}", "inline": True}
+            ]
+        }]
     }
 
     try:
-        response = requests.post(WEBHOOK_URL, json=payload)
+        response = requests.post(
+            webhook_url, 
+            data=json.dumps(data), 
+            headers={"Content-Type": "application/json"}
+        )
+        
+        # Check if Discord accepted the message
         if response.status_code == 204:
-            print("Discord notification sent! ✅")
-            return True
+            logger.info("✅ Discord notification sent successfully!")
         else:
-            print(f"Discord error: {response.status_code}")
-            return False
-
+            logger.error(f"❌ Discord rejected the message. Status: {response.status_code}, Error: {response.text}")
+            
     except Exception as e:
-        print(f"Failed to send Discord alert: {e}")
-        return False
-
-
-
-
-if __name__ == "__main__":
-    send_discord_alert(
-        product_name="Tecno Spark GO 3",
-        last_price=35000,
-        current_price=29999,
-        direction="dropped"
-    )
+        logger.error(f"❌ Failed to connect to Discord: {e}")
