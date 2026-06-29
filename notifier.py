@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
+webhook_url = os.getenv("DISCORD_WEBHOOK")
 
 def send_discord_alert(product_name, last_price, current_price, direction):
     if direction == "dropped":
