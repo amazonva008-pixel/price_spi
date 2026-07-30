@@ -16695,3 +16695,63 @@ Stacktrace:
 2026-07-30 19:12:12 | WARNING  | Skipping umar - could not scrape price
 2026-07-30 19:12:12 | INFO     | All checks completed. Worker shutting down.
 2026-07-30 19:12:12 | INFO     | All checks completed. Worker shutting down.
+2026-07-30 21:53:53 | INFO     | Price Spy Engine Triggered by Automation...
+2026-07-30 21:53:53 | INFO     | Price Spy Engine Triggered by Automation...
+2026-07-30 21:53:53 | INFO     | Checking: Hair Clipper Shaver
+2026-07-30 21:53:53 | INFO     | Checking: Hair Clipper Shaver
+2026-07-30 21:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-07-30 21:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-07-30 21:02:02 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-07-30 21:02:02 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-07-30 21:02:02 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-07-30 21:02:02 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-07-30 21:02:02 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-07-30 21:02:02 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-07-30 21:02:02 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-07-30 21:02:02 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-07-30 21:06:06 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2070.0
+2026-07-30 21:06:06 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2505.0 | Last: Rs.2070.0
+2026-07-30 21:06:06 | WARNING  | Price Increased! Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Rs.2070.0 -> Rs. 2505.0
+2026-07-30 21:06:06 | WARNING  | Price Increased! Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Rs.2070.0 -> Rs. 2505.0
+2026-07-30 21:07:07 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:07:07 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:07:07 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-07-30 21:07:07 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-07-30 21:07:07 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-07-30 21:07:07 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-07-30 21:12:12 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.7205.0
+2026-07-30 21:12:12 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.8725.0 | Last: Rs.7205.0
+2026-07-30 21:12:12 | WARNING  | Price Increased! Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Rs.7205.0 -> Rs. 8725.0
+2026-07-30 21:12:12 | WARNING  | Price Increased! Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Rs.7205.0 -> Rs. 8725.0
+2026-07-30 21:12:12 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:12:12 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:12:12 | INFO     | Checking: umar anas
+2026-07-30 21:12:12 | INFO     | Checking: umar anas
+2026-07-30 21:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:12:12 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:16:16 | DEBUG    | Product: umar anas | Current: Rs.157.0 | Last: Rs.132.0
+2026-07-30 21:16:16 | DEBUG    | Product: umar anas | Current: Rs.157.0 | Last: Rs.132.0
+2026-07-30 21:16:16 | WARNING  | Price Increased! umar anas | Rs.132.0 -> Rs. 157.0
+2026-07-30 21:16:16 | WARNING  | Price Increased! umar anas | Rs.132.0 -> Rs. 157.0
+2026-07-30 21:17:17 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:17:17 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:17:17 | INFO     | Checking: umar
+2026-07-30 21:17:17 | INFO     | Checking: umar
+2026-07-30 21:17:17 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:17:17 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:21:21 | DEBUG    | Product: umar | Current: Rs.157.0 | Last: Rs.132.0
+2026-07-30 21:21:21 | DEBUG    | Product: umar | Current: Rs.157.0 | Last: Rs.132.0
+2026-07-30 21:21:21 | WARNING  | Price Increased! umar | Rs.132.0 -> Rs. 157.0
+2026-07-30 21:21:21 | WARNING  | Price Increased! umar | Rs.132.0 -> Rs. 157.0
+2026-07-30 21:21:21 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:21:21 | INFO     | ✅ Discord notification sent successfully!
+2026-07-30 21:21:21 | INFO     | Checking: umar
+2026-07-30 21:21:21 | INFO     | Checking: umar
+2026-07-30 21:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-07-30 21:26:26 | DEBUG    | Product: umar | Current: Rs.157.0 | Last: Rs.157.0
+2026-07-30 21:26:26 | DEBUG    | Product: umar | Current: Rs.157.0 | Last: Rs.157.0
+2026-07-30 21:26:26 | INFO     | No change for umar - RS. 157.0
+2026-07-30 21:26:26 | INFO     | No change for umar - RS. 157.0
+2026-07-30 21:26:26 | INFO     | All checks completed. Worker shutting down.
+2026-07-30 21:26:26 | INFO     | All checks completed. Worker shutting down.
