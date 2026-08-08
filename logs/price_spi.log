@@ -28287,3 +28287,295 @@ Stacktrace:
 2026-08-08 20:41:41 | INFO     | No change for umar - RS. 144.0
 2026-08-08 20:41:41 | INFO     | All checks completed. Worker shutting down.
 2026-08-08 20:41:41 | INFO     | All checks completed. Worker shutting down.
+2026-08-08 21:51:51 | INFO     | Price Spy Engine Triggered by Automation...
+2026-08-08 21:51:51 | INFO     | Price Spy Engine Triggered by Automation...
+2026-08-08 21:51:51 | INFO     | Checking: Hair Clipper Shaver
+2026-08-08 21:51:51 | INFO     | Checking: Hair Clipper Shaver
+2026-08-08 21:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-08-08 21:55:55 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-08-08 21:20:20 | ERROR    | Error Scraping https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html: Message: 
+Stacktrace:
+#0 0x5579614c544a <unknown>
+#1 0x557960e9d8c9 <unknown>
+#2 0x557960ef2f32 <unknown>
+#3 0x557960ef3181 <unknown>
+#4 0x557960f3e374 <unknown>
+#5 0x557960f3b55d <unknown>
+#6 0x557960ee63ff <unknown>
+#7 0x557960ee7261 <unknown>
+#8 0x55796148acc7 <unknown>
+#9 0x5579614894a8 <unknown>
+#10 0x557961474196 <unknown>
+#11 0x55796148a06a <unknown>
+#12 0x55796145c020 <unknown>
+#13 0x5579614b0b98 <unknown>
+#14 0x5579614b0d35 <unknown>
+#15 0x5579614c3ffe <unknown>
+#16 0x7f0813c9caa4 <unknown>
+#17 0x7f0813d29c6c <unknown>
+
+2026-08-08 21:20:20 | ERROR    | Error Scraping https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html: Message: 
+Stacktrace:
+#0 0x5579614c544a <unknown>
+#1 0x557960e9d8c9 <unknown>
+#2 0x557960ef2f32 <unknown>
+#3 0x557960ef3181 <unknown>
+#4 0x557960f3e374 <unknown>
+#5 0x557960f3b55d <unknown>
+#6 0x557960ee63ff <unknown>
+#7 0x557960ee7261 <unknown>
+#8 0x55796148acc7 <unknown>
+#9 0x5579614894a8 <unknown>
+#10 0x557961474196 <unknown>
+#11 0x55796148a06a <unknown>
+#12 0x55796145c020 <unknown>
+#13 0x5579614b0b98 <unknown>
+#14 0x5579614b0d35 <unknown>
+#15 0x5579614c3ffe <unknown>
+#16 0x7f0813c9caa4 <unknown>
+#17 0x7f0813d29c6c <unknown>
+
+2026-08-08 21:20:20 | WARNING  | Skipping Hair Clipper Shaver - could not scrape price
+2026-08-08 21:20:20 | WARNING  | Skipping Hair Clipper Shaver - could not scrape price
+2026-08-08 21:20:20 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-08-08 21:20:20 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-08-08 21:20:20 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-08-08 21:20:20 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-08-08 21:39:39 | ERROR    | Error Scraping https://www.daraz.pk/products/150-i933235657-s3989822095.html: Message: 
+Stacktrace:
+#0 0x55c60262f44a <unknown>
+#1 0x55c6020078c9 <unknown>
+#2 0x55c60205cf32 <unknown>
+#3 0x55c60205d181 <unknown>
+#4 0x55c6020a8374 <unknown>
+#5 0x55c6020a555d <unknown>
+#6 0x55c6020503ff <unknown>
+#7 0x55c602051261 <unknown>
+#8 0x55c6025f4cc7 <unknown>
+#9 0x55c6025f34a8 <unknown>
+#10 0x55c6025de196 <unknown>
+#11 0x55c6025f406a <unknown>
+#12 0x55c6025c6020 <unknown>
+#13 0x55c60261ab98 <unknown>
+#14 0x55c60261ad35 <unknown>
+#15 0x55c60262dffe <unknown>
+#16 0x7f199209caa4 <unknown>
+#17 0x7f1992129c6c <unknown>
+
+2026-08-08 21:39:39 | ERROR    | Error Scraping https://www.daraz.pk/products/150-i933235657-s3989822095.html: Message: 
+Stacktrace:
+#0 0x55c60262f44a <unknown>
+#1 0x55c6020078c9 <unknown>
+#2 0x55c60205cf32 <unknown>
+#3 0x55c60205d181 <unknown>
+#4 0x55c6020a8374 <unknown>
+#5 0x55c6020a555d <unknown>
+#6 0x55c6020503ff <unknown>
+#7 0x55c602051261 <unknown>
+#8 0x55c6025f4cc7 <unknown>
+#9 0x55c6025f34a8 <unknown>
+#10 0x55c6025de196 <unknown>
+#11 0x55c6025f406a <unknown>
+#12 0x55c6025c6020 <unknown>
+#13 0x55c60261ab98 <unknown>
+#14 0x55c60261ad35 <unknown>
+#15 0x55c60262dffe <unknown>
+#16 0x7f199209caa4 <unknown>
+#17 0x7f1992129c6c <unknown>
+
+2026-08-08 21:40:40 | WARNING  | Skipping Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-08-08 21:40:40 | WARNING  | Skipping Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - could not scrape price
+2026-08-08 21:40:40 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-08-08 21:40:40 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-08-08 21:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-08-08 21:40:40 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-08-08 21:58:58 | ERROR    | Error Scraping https://www.daraz.pk/products/200-i932726307-s3989239673.html: Message: 
+Stacktrace:
+#0 0x56098c7ee44a <unknown>
+#1 0x56098c1c68c9 <unknown>
+#2 0x56098c21bf32 <unknown>
+#3 0x56098c21c181 <unknown>
+#4 0x56098c267374 <unknown>
+#5 0x56098c26455d <unknown>
+#6 0x56098c20f3ff <unknown>
+#7 0x56098c210261 <unknown>
+#8 0x56098c7b3cc7 <unknown>
+#9 0x56098c7b24a8 <unknown>
+#10 0x56098c79d196 <unknown>
+#11 0x56098c7b306a <unknown>
+#12 0x56098c785020 <unknown>
+#13 0x56098c7d9b98 <unknown>
+#14 0x56098c7d9d35 <unknown>
+#15 0x56098c7ecffe <unknown>
+#16 0x7f81d829caa4 <unknown>
+#17 0x7f81d8329c6c <unknown>
+
+2026-08-08 21:58:58 | ERROR    | Error Scraping https://www.daraz.pk/products/200-i932726307-s3989239673.html: Message: 
+Stacktrace:
+#0 0x56098c7ee44a <unknown>
+#1 0x56098c1c68c9 <unknown>
+#2 0x56098c21bf32 <unknown>
+#3 0x56098c21c181 <unknown>
+#4 0x56098c267374 <unknown>
+#5 0x56098c26455d <unknown>
+#6 0x56098c20f3ff <unknown>
+#7 0x56098c210261 <unknown>
+#8 0x56098c7b3cc7 <unknown>
+#9 0x56098c7b24a8 <unknown>
+#10 0x56098c79d196 <unknown>
+#11 0x56098c7b306a <unknown>
+#12 0x56098c785020 <unknown>
+#13 0x56098c7d9b98 <unknown>
+#14 0x56098c7d9d35 <unknown>
+#15 0x56098c7ecffe <unknown>
+#16 0x7f81d829caa4 <unknown>
+#17 0x7f81d8329c6c <unknown>
+
+2026-08-08 21:58:58 | WARNING  | Skipping Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-08-08 21:58:58 | WARNING  | Skipping Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - could not scrape price
+2026-08-08 21:58:58 | INFO     | Checking: umar anas
+2026-08-08 21:58:58 | INFO     | Checking: umar anas
+2026-08-08 21:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:59:59 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:18:18 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x5631254e644a <unknown>
+#1 0x563124ebe8c9 <unknown>
+#2 0x563124f13f32 <unknown>
+#3 0x563124f14181 <unknown>
+#4 0x563124f5f374 <unknown>
+#5 0x563124f5c55d <unknown>
+#6 0x563124f073ff <unknown>
+#7 0x563124f08261 <unknown>
+#8 0x5631254abcc7 <unknown>
+#9 0x5631254aa4a8 <unknown>
+#10 0x563125495196 <unknown>
+#11 0x5631254ab06a <unknown>
+#12 0x56312547d020 <unknown>
+#13 0x5631254d1b98 <unknown>
+#14 0x5631254d1d35 <unknown>
+#15 0x5631254e4ffe <unknown>
+#16 0x7f422b89caa4 <unknown>
+#17 0x7f422b929c6c <unknown>
+
+2026-08-08 21:18:18 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x5631254e644a <unknown>
+#1 0x563124ebe8c9 <unknown>
+#2 0x563124f13f32 <unknown>
+#3 0x563124f14181 <unknown>
+#4 0x563124f5f374 <unknown>
+#5 0x563124f5c55d <unknown>
+#6 0x563124f073ff <unknown>
+#7 0x563124f08261 <unknown>
+#8 0x5631254abcc7 <unknown>
+#9 0x5631254aa4a8 <unknown>
+#10 0x563125495196 <unknown>
+#11 0x5631254ab06a <unknown>
+#12 0x56312547d020 <unknown>
+#13 0x5631254d1b98 <unknown>
+#14 0x5631254d1d35 <unknown>
+#15 0x5631254e4ffe <unknown>
+#16 0x7f422b89caa4 <unknown>
+#17 0x7f422b929c6c <unknown>
+
+2026-08-08 21:18:18 | WARNING  | Skipping umar anas - could not scrape price
+2026-08-08 21:18:18 | WARNING  | Skipping umar anas - could not scrape price
+2026-08-08 21:18:18 | INFO     | Checking: umar
+2026-08-08 21:18:18 | INFO     | Checking: umar
+2026-08-08 21:18:18 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:18:18 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:37:37 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x55d18c7c244a <unknown>
+#1 0x55d18c19a8c9 <unknown>
+#2 0x55d18c1eff32 <unknown>
+#3 0x55d18c1f0181 <unknown>
+#4 0x55d18c23b374 <unknown>
+#5 0x55d18c23855d <unknown>
+#6 0x55d18c1e33ff <unknown>
+#7 0x55d18c1e4261 <unknown>
+#8 0x55d18c787cc7 <unknown>
+#9 0x55d18c7864a8 <unknown>
+#10 0x55d18c771196 <unknown>
+#11 0x55d18c78706a <unknown>
+#12 0x55d18c759020 <unknown>
+#13 0x55d18c7adb98 <unknown>
+#14 0x55d18c7add35 <unknown>
+#15 0x55d18c7c0ffe <unknown>
+#16 0x7fc0a6e9caa4 <unknown>
+#17 0x7fc0a6f29c6c <unknown>
+
+2026-08-08 21:37:37 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x55d18c7c244a <unknown>
+#1 0x55d18c19a8c9 <unknown>
+#2 0x55d18c1eff32 <unknown>
+#3 0x55d18c1f0181 <unknown>
+#4 0x55d18c23b374 <unknown>
+#5 0x55d18c23855d <unknown>
+#6 0x55d18c1e33ff <unknown>
+#7 0x55d18c1e4261 <unknown>
+#8 0x55d18c787cc7 <unknown>
+#9 0x55d18c7864a8 <unknown>
+#10 0x55d18c771196 <unknown>
+#11 0x55d18c78706a <unknown>
+#12 0x55d18c759020 <unknown>
+#13 0x55d18c7adb98 <unknown>
+#14 0x55d18c7add35 <unknown>
+#15 0x55d18c7c0ffe <unknown>
+#16 0x7fc0a6e9caa4 <unknown>
+#17 0x7fc0a6f29c6c <unknown>
+
+2026-08-08 21:37:37 | WARNING  | Skipping umar - could not scrape price
+2026-08-08 21:37:37 | WARNING  | Skipping umar - could not scrape price
+2026-08-08 21:37:37 | INFO     | Checking: umar
+2026-08-08 21:37:37 | INFO     | Checking: umar
+2026-08-08 21:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:38:38 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-08 21:57:57 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x5567c64b944a <unknown>
+#1 0x5567c5e918c9 <unknown>
+#2 0x5567c5ee6f32 <unknown>
+#3 0x5567c5ee7181 <unknown>
+#4 0x5567c5f32374 <unknown>
+#5 0x5567c5f2f55d <unknown>
+#6 0x5567c5eda3ff <unknown>
+#7 0x5567c5edb261 <unknown>
+#8 0x5567c647ecc7 <unknown>
+#9 0x5567c647d4a8 <unknown>
+#10 0x5567c6468196 <unknown>
+#11 0x5567c647e06a <unknown>
+#12 0x5567c6450020 <unknown>
+#13 0x5567c64a4b98 <unknown>
+#14 0x5567c64a4d35 <unknown>
+#15 0x5567c64b7ffe <unknown>
+#16 0x7f9b0369caa4 <unknown>
+#17 0x7f9b03729c6c <unknown>
+
+2026-08-08 21:57:57 | ERROR    | Error Scraping https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html: Message: 
+Stacktrace:
+#0 0x5567c64b944a <unknown>
+#1 0x5567c5e918c9 <unknown>
+#2 0x5567c5ee6f32 <unknown>
+#3 0x5567c5ee7181 <unknown>
+#4 0x5567c5f32374 <unknown>
+#5 0x5567c5f2f55d <unknown>
+#6 0x5567c5eda3ff <unknown>
+#7 0x5567c5edb261 <unknown>
+#8 0x5567c647ecc7 <unknown>
+#9 0x5567c647d4a8 <unknown>
+#10 0x5567c6468196 <unknown>
+#11 0x5567c647e06a <unknown>
+#12 0x5567c6450020 <unknown>
+#13 0x5567c64a4b98 <unknown>
+#14 0x5567c64a4d35 <unknown>
+#15 0x5567c64b7ffe <unknown>
+#16 0x7f9b0369caa4 <unknown>
+#17 0x7f9b03729c6c <unknown>
+
+2026-08-08 21:57:57 | WARNING  | Skipping umar - could not scrape price
+2026-08-08 21:57:57 | WARNING  | Skipping umar - could not scrape price
+2026-08-08 21:57:57 | INFO     | All checks completed. Worker shutting down.
+2026-08-08 21:57:57 | INFO     | All checks completed. Worker shutting down.
