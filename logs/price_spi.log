@@ -38079,3 +38079,55 @@ Stacktrace:
 2026-08-14 22:02:02 | WARNING  | Skipping umar - could not scrape price
 2026-08-14 22:02:02 | INFO     | All checks completed. Worker shutting down.
 2026-08-14 22:02:02 | INFO     | All checks completed. Worker shutting down.
+2026-08-14 22:03:03 | INFO     | Price Spy Engine Triggered by Automation...
+2026-08-14 22:03:03 | INFO     | Price Spy Engine Triggered by Automation...
+2026-08-14 22:03:03 | INFO     | Checking: Hair Clipper Shaver
+2026-08-14 22:03:03 | INFO     | Checking: Hair Clipper Shaver
+2026-08-14 22:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-08-14 22:13:13 | INFO     | Opening chrome for: https://www.daraz.pk/products/daling-dl-9218-3-in-1-cpmact-size-rechargeable-hair-clipper-shaver-beard-styling-hair-removal-machine-i802042243-s3685099733.html
+2026-08-14 22:22:22 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-08-14 22:22:22 | DEBUG    | Product: Hair Clipper Shaver | Current: Rs.1999.0 | Last: Rs.1999.0
+2026-08-14 22:22:22 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-08-14 22:22:22 | INFO     | No change for Hair Clipper Shaver - RS. 1999.0
+2026-08-14 22:22:22 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-08-14 22:22:22 | INFO     | Checking: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML
+2026-08-14 22:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-08-14 22:22:22 | INFO     | Opening chrome for: https://www.daraz.pk/products/150-i933235657-s3989822095.html
+2026-08-14 22:26:26 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2160.0 | Last: Rs.2160.0
+2026-08-14 22:26:26 | DEBUG    | Product: Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML | Current: Rs.2160.0 | Last: Rs.2160.0
+2026-08-14 22:26:26 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2160.0
+2026-08-14 22:26:26 | INFO     | No change for Alfatah Mall GARNIER PURE DEEP PORE WASH 150ML - RS. 2160.0
+2026-08-14 22:26:26 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-08-14 22:26:26 | INFO     | Checking: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML
+2026-08-14 22:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-08-14 22:27:27 | INFO     | Opening chrome for: https://www.daraz.pk/products/200-i932726307-s3989239673.html
+2026-08-14 22:31:31 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.9100.0 | Last: Rs.9100.0
+2026-08-14 22:31:31 | DEBUG    | Product: Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML | Current: Rs.9100.0 | Last: Rs.9100.0
+2026-08-14 22:31:31 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 9100.0
+2026-08-14 22:31:31 | INFO     | No change for Alfatah Mall PIGMENTBIO FOAMING CREAM 200 ML - RS. 9100.0
+2026-08-14 22:31:31 | INFO     | Checking: umar anas
+2026-08-14 22:31:31 | INFO     | Checking: umar anas
+2026-08-14 22:31:31 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:31:31 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:36:36 | DEBUG    | Product: umar anas | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:36:36 | DEBUG    | Product: umar anas | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:36:36 | INFO     | No change for umar anas - RS. 142.0
+2026-08-14 22:36:36 | INFO     | No change for umar anas - RS. 142.0
+2026-08-14 22:36:36 | INFO     | Checking: umar
+2026-08-14 22:36:36 | INFO     | Checking: umar
+2026-08-14 22:37:37 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:37:37 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:43:43 | DEBUG    | Product: umar | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:43:43 | DEBUG    | Product: umar | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:43:43 | INFO     | No change for umar - RS. 142.0
+2026-08-14 22:43:43 | INFO     | No change for umar - RS. 142.0
+2026-08-14 22:43:43 | INFO     | Checking: umar
+2026-08-14 22:43:43 | INFO     | Checking: umar
+2026-08-14 22:43:43 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:43:43 | INFO     | Opening chrome for: https://www.daraz.pk/products/palmolive-naturals-flawless-glow-bar-soap-130g-i251428655-s1468941203.html
+2026-08-14 22:49:49 | DEBUG    | Product: umar | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:49:49 | DEBUG    | Product: umar | Current: Rs.142.0 | Last: Rs.142.0
+2026-08-14 22:49:49 | INFO     | No change for umar - RS. 142.0
+2026-08-14 22:49:49 | INFO     | No change for umar - RS. 142.0
+2026-08-14 22:49:49 | INFO     | All checks completed. Worker shutting down.
+2026-08-14 22:49:49 | INFO     | All checks completed. Worker shutting down.
